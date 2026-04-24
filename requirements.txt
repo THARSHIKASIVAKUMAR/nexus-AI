@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+anthropic
+google-generativeai
+huggingface_hub
+python-multipart
+python-dotenv
+pymupdf
+python-docx
+pillow
+requests
