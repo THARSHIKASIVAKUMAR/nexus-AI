@@ -1,5 +1,7 @@
 NEXUS AI – Autonomous Visual Intelligence Engine
 
+
+
 Transform visual data into actionable insights using agentic AI.
 
 Overview
@@ -7,6 +9,8 @@ Overview
 Nexus AI is a multi-modal AI system that converts visual inputs such as charts, graphs, and Excel screenshots into structured insights and concise summaries.
 
 It combines computer vision, machine learning, and large language models in a modular agent-based pipeline to automate visual data interpretation.
+
+
 
 Objectives
 Interpret visual data automatically
@@ -29,6 +33,9 @@ Prophet
 APIs
 Hugging Face
 Google Gemini API
+
+
+
 Architecture
 User Input
    ↓
@@ -59,7 +66,11 @@ nexus-ai/
 │
 ├── models/
 ├── datasets/
+
+
+
 Workflow
+
 Upload image
 Preprocess input
 Detect structure (Vision Agent)
@@ -79,10 +90,13 @@ Reduces manual analysis
 Modular and scalable
 Real-time insights
 Works across domains
+
+
 Limitations
 Depends on external APIs
 Sensitive to image quality
 Limited handling of highly complex visuals
+
 Applications
 Business analytics
 Financial forecasting
